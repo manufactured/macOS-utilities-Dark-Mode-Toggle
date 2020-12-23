@@ -38,5 +38,5 @@
 
 ### Icons
 
-- I recreated the iOS Dark Mode icon [here](Dark Mode Toggle/DarkModeIcon_ManufacturedRecreated.icns).  
-- Then I made it into a Toolbar button [here](Dark Mode Toggle for Toolbar/DarkModeIcon_ManufacturedToolbar.icns).  
+- I recreated the iOS Dark Mode icon [here](Dark-Mode-Toggle/DarkModeIcon_ManufacturedRecreated.icns).  
+- Then I made it into a Toolbar button [here](Dark-Mode-Toggle-for-Toolbar/DarkModeIcon_ManufacturedToolbar.icns).  
