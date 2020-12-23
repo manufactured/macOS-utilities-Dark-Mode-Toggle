@@ -19,9 +19,7 @@ macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark 
 
 #### Install: Unzip Automator apps
 
-1. Unzip the premade Automator app(s) and stash them anywhere 
-   - **Note**: you can open them in Automator to confirm that they include only the one command, and are safe.
-   - You can also make your own App, Service, or Workflow - it's just a single Automator command.
+The apps already have the icons attached.  Optionally, you can make your own App, Service, or Workflow and use one of the icons. 
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
