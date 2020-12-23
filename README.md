@@ -4,25 +4,24 @@ macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark 
 
 **Solved**: Someone discovered that Apple had also released a *new Automator action* to control display modes, and now we can change modes in various ways. (from Spotlight, from the dock, from the desktop, from the Toolbar, by service, by key command, etc.).  
 
-#### TL;DR Two Dark Mode toggle apps + icons that don't annoy me.
+#### What: Two Dark Mode toggle apps + icons that look okay.
 1. Dark Mode Automator app using the iOS DM icon I recreated.   
 2. A toolbar button version of the icon that works for me on the Finder window Toolbar.  
    <img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="100" align="left"><img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="100" align="left">
    <br/><br/>  
    <br/><br/>  
 
-#### You can toggle Dark Mode by running the included app...   
+#### How: You can toggle Dark Mode by running the included app...   
 
 - from Spotlight (an app and icon for that) or  
 - from the Finder window Toolbar (an app and icon for that).  
 
 
-#### Two types of installation
+#### Install: Unzip Automator apps
 
 1. Unzip the premade Automator app(s) and stash them anywhere 
    - **Note**: you can open them in Automator to confirm that they include only the one command, and are safe.
-2. Unzip the included [Automator workflow](DarkModeTog-AutomatorWorkflow.workflow.zip) and make your own App, Service, or Workflow.  
-
+   - You can also make your own App, Service, or Workflow - it's just a single Automator command.
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
