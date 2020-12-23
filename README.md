@@ -16,10 +16,10 @@
 
 ### Use via Spotlight
 
+<img alt="Dark Mode Toggle Example GIF" src="Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
+
 - Just put the Automator app on your Mac, and activate it with Spotlight.  (I type  `dm` )
 - I happen to use [LaunchBar](https://www.obdev.at/products/launchbar)) but Spotlight, Alfred, Keyboard Maestro, etc. will obviously be fine.  
-
-<img alt="Dark Mode Toggle Example GIF" src="Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
 
 
