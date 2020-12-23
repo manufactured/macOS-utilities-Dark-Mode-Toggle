@@ -14,7 +14,7 @@
 
 
 
-<img alt="Dark Mode Toggle Example GIF" src="Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
+<img alt="Dark Mode Toggle Example GIF" src="Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
 ### Use via Spotlight
 
@@ -25,7 +25,7 @@
 
 ### Use via Finder window Toolbar icon
 
-<img alt="Dark Mode Toggle for Toolbar Example GIF" src="Dark Mode Toggle for Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
 
 - Put the Automator app somewhere on your Mac. (Make sure you choose the one with the Toolbar icon)
 - Customize your Finder window Toolbar (right click on Toolbar, select "...Customize Toolbar")  
