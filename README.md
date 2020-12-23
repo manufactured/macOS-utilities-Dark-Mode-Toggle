@@ -1,27 +1,17 @@
 # macOS-utilities-Dark-Mode-Toggle
 
+macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark Mode too fidgety: Open System Prefs, get to the General preference pane, then click to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  I also thought Auto lacked the fine control for varied schedules.    
 
+**Solved**: Someone discovered that Apple had also released a *new Automator action* to control display modes, and now we can change modes in various ways. (from Spotlight, from the dock, from the desktop, from the Toolbar, by service, by key command, etc.).  
 
-In fall 2018, Apple released macOS 10.14  Mojave, with "Dark Mode," a display preference that saves your eyes by tinting all the primary interface components a very dark grey, versus the standard "light grey and white." 
+#### TL;DR Two Dark Mode toggle apps + icons that don't annoy me.
 
-##### Activating Dark Mode involved:  
-
-1. opening a preference pane, 
-2. navigating to a tab, 
-3. then clicking to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  
-
-Manuallly changing modes is too fidgety, and Auto lacks the fine control for varied schedules.     
-
-**Solved**: Someone discovered that Apple had also released a *new Automator action* to control display modes, and now we can change modes in various ways.  
-
-#### TL;DR It's Automator apps with icons that don't annoy me.  The only value of this repo is  
-
-1. a Dark Mode icon that doen't annoy me every time I see it (I stole the design from the iOS icon), and 
+1. Dark Mode Automator app with 
 2. a version of the icon that doesn't look too terrible on the Finder window Toolbar.  
 
 
 
-### Toggle Dark Mode on Mac  
+You can toggle Dark Mode by running the included app 
 
 - from Spotlight (an app and icon for that) or  
 - from the Finder window Toolbar (an app and icon for that).  
