@@ -18,7 +18,7 @@ macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark 
 
 
 
-<BR></BR>
+  
 
 You can toggle Dark Mode by running the included app 
 
