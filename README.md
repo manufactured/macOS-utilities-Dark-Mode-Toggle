@@ -36,20 +36,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### Icons
 
-- I recreated the iOS Dark Mode icon.   
-- 
-- The DarkModeIcon_Manufactured_Toolbar_ icon fits better on the Toolbar.  
+- I recreated the iOS Dark Mode icon here.  
+- Then I made it into a Toolbar button here.  
