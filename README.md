@@ -10,7 +10,7 @@
 
 1. Unzip the premade Automator app(s) and stash them anywhere 
    - **Note**: you can open them in Automator to confirm that they include only the one command, and are safe.
-2. Unzip the included Automator workflow and make your own App, Service, or Workflow.  
+2. Unzip the included [Automator workflow]("DarkModeTog-AutomatorWorkflow.workflow.zip") and make your own App, Service, or Workflow.  
 
 
 
