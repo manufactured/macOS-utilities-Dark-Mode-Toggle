@@ -7,11 +7,9 @@ macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark 
 #### TL;DR Two Dark Mode toggle apps + icons that don't annoy me.
 1. Dark Mode Automator app using the iOS DM icon I recreated.   
 2. A version of the icon that doesn't look too terrible on the Finder window Toolbar.  
-
-<img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="100" align="left"><img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="100" align="right">
-<br/><br/>
-
-You can toggle Dark Mode by running the included app 
+<img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="100" align="left"><img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="100" align="left">
+<br/><br/>  
+You can toggle Dark Mode by running the included app  
 
 - from Spotlight (an app and icon for that) or  
 - from the Finder window Toolbar (an app and icon for that).  
