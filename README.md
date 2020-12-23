@@ -14,18 +14,16 @@
 
 
 
-### Use via Spotlight
-
 <img alt="Dark Mode Toggle Example GIF" src="Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
+
+### Use via Spotlight
 
 - Just put the Automator app on your Mac, and activate it with Spotlight.  (I type  `dm` )
 - I happen to use [LaunchBar](https://www.obdev.at/products/launchbar)) but Spotlight, Alfred, Keyboard Maestro, etc. will obviously be fine.  
 
 
 
-
-
-
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="Dark Mode Toggle for Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
 
 ### Use via Finder window Toolbar icon
 
@@ -33,8 +31,6 @@
 - Customize your Finder window Toolbar (right click on Toolbar, select "...Customize Toolbar")  
 - Drag the Automator app to your Toolbar. Click done.  
 - Test it by clicking the button. Dark Mode should toggle.  
-
-<img alt="Dark Mode Toggle for Toolbar Example GIF" src="Dark Mode Toggle for Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
 
 
 
