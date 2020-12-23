@@ -7,7 +7,8 @@ In fall 2018, Apple released macOS 10.14  Mojave, with "Dark Mode," a display pr
 ##### Activating Dark Mode involved:  
 
 - opening a preference pane, navigating to a tab, then clicking to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  
-- Auto lacks the fine control for varied situations, and manuallly changing modes is to fidgety.  
+
+  Auto lacks the fine control for varied situations, and manuallly changing modes is to fidgety.  
 
 **Solved**: Someone discovered that Apple had alse released a new Automator action to control display modes, and now we can change modes in various ways.  
 
