@@ -3,5 +3,5 @@ Toggle Dark Mode on Mac from Spotlight or Finder window toolbar.
 
 
 
-![DarkModeTog-Spotlight-Use](Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif)
+![DarkModeTog-Spotlight-Use](/Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif)
 
