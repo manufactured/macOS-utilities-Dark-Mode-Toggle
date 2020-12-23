@@ -4,14 +4,14 @@
 
 In fall 2018, Apple released macOS 10.14  Mojave, with "Dark Mode," a display preference that saves your eyes by tinting all the primary interface components a very dark grey, versus the standard "light grey and white." 
 
-Activating Dark Mode involved:  
+##### Activating Dark Mode involved:  
 
 - opening a preference pane, navigating to a tab, then clicking to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  
 - Auto lacks the fine control for varied situations, and manuallly changing modes is to fidgety.  
 
 **Solved**: Someone discovered that Apple had alse released a new Automator action to control display modes, and now we can change modes in various ways.  
 
-##### TL;DR It's Automator apps with icons that don't annoy me.  The only value of this repo is  
+#### TL;DR It's Automator apps with icons that don't annoy me.  The only value of this repo is  
 
 1. a Dark Mode icon that doen't annoy me every time I see it (I stole the design from the iOS icon), and 
 2. a version of the icon that doesn't look too terrible on the Finder window Toolbar.  
