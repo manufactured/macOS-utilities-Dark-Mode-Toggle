@@ -6,7 +6,7 @@ macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark 
 
 #### TL;DR Two Dark Mode toggle apps + icons that don't annoy me.
 
-1. Dark Mode Automator app with 
+1. Dark Mode Automator app using the iOS DM icon I recreated.  ![iOS DM icon](3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png)
 2. a version of the icon that doesn't look too terrible on the Finder window Toolbar.  
 
 
@@ -26,7 +26,7 @@ You can toggle Dark Mode by running the included app
 
 
 
-<img alt="Dark Mode Toggle Example GIF" src="Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
+<img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
 ### Use via Spotlight
 
@@ -37,7 +37,7 @@ You can toggle Dark Mode by running the included app
 
 ### Use via Finder window Toolbar icon
 
-<img alt="Dark Mode Toggle for Toolbar Example GIF" src="Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="2-Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
 
 - Put the Automator app somewhere on your Mac. (Make sure you choose the one with the Toolbar icon)
 - Customize your Finder window Toolbar (right click on Toolbar, select "...Customize Toolbar")  
@@ -46,5 +46,4 @@ You can toggle Dark Mode by running the included app
 
 ### Icons
 
-- I recreated the iOS Dark Mode icon [here](Dark-Mode-Toggle/DarkModeIcon_ManufacturedRecreated.icns) (Mac icon files (dot icns).  
-- Then I made it into a Toolbar button [here](Dark-Mode-Toggle-for-Toolbar/DarkModeIcon_ManufacturedToolbar.icns) (same kind of file).  
+All the icons and a couple PNGs are [here](3-All-the-Icons).  
