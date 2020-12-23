@@ -3,11 +3,11 @@ Toggle Dark Mode on Mac from Spotlight or Finder window toolbar.
 
 
 
-I activate it from Spotlight [like this](Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true).  
+You can activate it quickly from Spotlight by typing `dm`.
 
-<img alt="Dark Mode Toggle Example GIF" src="Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" height="100" width="100" align="right">
+<img alt="Dark Mode Toggle Example GIF" src="Dark Mode Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" height="250" width="250" align="right">
 
-<img alt="WP Reliable Cookie Bar logo" src="../media/wp-reliable-cookie-bar-logo.png?raw=true" height="100" width="100" align="right">
+
 
 
 
