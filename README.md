@@ -29,7 +29,9 @@ Optionally, you can make your own App, Service, or Workflow and use one of the i
 
 ### Option 1. Use via Spotlight
 
-Invoke Spotlight, and type  `dm` .  Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I use), or Spotlight, Alfred, Keyboard Maestro, etc.
+Invoke Spotlight, and type  `dm` .   
+
+Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I use), or Spotlight, Alfred, Keyboard Maestro, etc.  
 
 <br/><br/><br/><br/>    
 
