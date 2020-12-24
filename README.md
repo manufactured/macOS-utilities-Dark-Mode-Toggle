@@ -27,7 +27,7 @@ Option 2.  from the Finder window Toolbar (an app and icon for that).
 
 The apps already have the icons attached.   
 
-You can make your own App, Service, or Workflow and use one of the icons.  
+You can also make your own App, Service, or Workflow and use one of the icons.  
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
