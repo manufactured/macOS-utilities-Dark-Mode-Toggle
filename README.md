@@ -20,11 +20,13 @@ App+Icon: iOS Dark Mode (I recreated in Pixelmator).
 
 ... by clicking the icon in the Finder window Toolbar.  
 
-<br/><br/><br/><br/>  
+  
 
-To Install: Unzip Automator apps. The apps already have the icons attached.   
+**To Install**: Unzip Automator apps. The apps already have the icons attached.   
 
-You can also make your own App, Service, or Workflow and use one of the icons.  
+You can also make your own App, Service, or Workflow and use one of the icons on your app.    
+
+<br/><br/><br/><br/>
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
