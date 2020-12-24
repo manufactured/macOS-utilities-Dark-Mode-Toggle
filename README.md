@@ -8,7 +8,6 @@
 
 ### This repo: Two Dark Mode toggle apps + icons copied from iOS.  
 Option 1. Dark Mode Automator app using the iOS Dark Mode icon (I recreated).  
-<br/><br/>  
 <img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="100" align="left">  
 <br/><br/>  
 <br/><br/>  
