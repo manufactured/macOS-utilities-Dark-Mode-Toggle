@@ -1,17 +1,19 @@
 # macOS-utilities-Dark-Mode-Toggle
 
-macOS 10.14  Mojave gave us "Dark Mode." Nice. However, I found activating Dark Mode too fidgety: Open System Prefs, get to the General preference pane, then click to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  I also thought Auto lacked the fine control for varied schedules.    
+### macOS 10.14  Mojave gave us "Dark Mode." Nice.  
 
-**Solved**: Someone discovered that Apple had also released a *new Automator action* to control display modes, and now we can change modes in various ways. (from Spotlight, from the dock, from the desktop, from the Toolbar, by service, by key command, etc.).  
+**Problem**: Too many steps to activate. Open System Prefs, get to the General preference pane, then click to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  I also thought Auto lacked the fine control for varied schedules.    
 
-#### What: Two Dark Mode toggle apps + icons that look okay.
+**Solved**: Apple had thought of this, and released a *new Automator action* to control display modes, and now we can change modes in various ways. (from Spotlight, from the dock, from the desktop, from the Toolbar, by service, by key command, etc.).  
+
+#### This repo: Two Dark Mode toggle apps + icons that look okay.
 1. Dark Mode Automator app using the iOS DM icon I recreated.   
 2. A toolbar button version of the icon that works for me on the Finder window Toolbar.  
    <img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="100" align="left"><img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="100" align="left">
    <br/><br/>  
    <br/><br/>  
 
-#### How: You can toggle Dark Mode by running the included app...   
+#### How: You can toggle Dark Mode by running the included apps...   
 
 - from Spotlight (an app and icon for that) or  
 - from the Finder window Toolbar (an app and icon for that).  
