@@ -9,11 +9,11 @@
 ### This repo: Two Dark Mode toggle apps + icons copied from iOS.  
 Option 1. Dark Mode Automator app using the iOS Dark Mode icon (I recreated).  
 <img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="60" align="left">  
-<br/><br/>  
-<br/>  
+<br/><br/>
+<br/>
 Option 2. A toolbar button version of the icon that works for me on the Finder window Toolbar.  
-<img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="60" align="right">  
-<br/><br/>  
+<img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="60" align="left">  
+<br/><br/>
 <br/>
 
 ### How: You can toggle Dark Mode by running the included apps...   
