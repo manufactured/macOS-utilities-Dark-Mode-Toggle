@@ -6,7 +6,7 @@
 
 **Solved**: Apple had thought of this, and released a *new Automator action* to control display modes, and now we can change modes in various ways. (from Spotlight, from the dock, from the desktop, from the Toolbar, by service, by key command, etc.).  
 
-### This repo: Two Dark Mode toggle apps + icons that look okay.
+### This repo: Two Dark Mode toggle apps + icons copied from iOS.
 Option 1. Dark Mode Automator app using the iOS Dark Mode icon (I recreated).  
 
 Option 2. A toolbar button version of the icon that works for me on the Finder window Toolbar.  
