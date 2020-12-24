@@ -29,7 +29,7 @@ The apps already have the icons attached.  Optionally, you can make your own App
 
 Invoke Spotlight, and type  `dm` .  Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I use), or Spotlight, Alfred, Keyboard Maestro, etc.
 
-
+<br/><br/>  
 
 ### Option 2. Use via Finder window Toolbar icon
 
