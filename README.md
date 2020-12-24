@@ -6,15 +6,14 @@
 
 **Solved**: Apple had thought of this, and released a *new Automator action* to control display modes, and now we can change modes in various ways. (from Spotlight, from the dock, from the desktop, from the Toolbar, by service, by key command, etc.).  
 
-### This repo: Two Dark Mode toggle apps + icons copied from iOS.  
-1. App: Dark Mode.  Icon: iOS Dark Mode (I recreated in Pixelmator).  
-   <img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="60" align="left">  
-   <br/><br/>
-   <br/>
-   A toolbar button version of the icon that works for me on the Finder window Toolbar.  
-   <img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="60" align="left">  
-   <br/><br/>
-   <br/>
+### This repo: Two *Dark Mode* toggle apps (iOS DM icon).  
+App: Dark Mode.  Icon: iOS Dark Mode (I recreated in Pixelmator).  
+<img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="60" align="left">  
+<br/><br/>
+<br/>App: Dark Mode.  Icon: rounded rec button version of the regular Dark Mode icon. Works for me on the Finder window Toolbar.  
+<img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="59" align="left">  
+<br/><br/>
+<br/>
 
 ### How: You can toggle Dark Mode by running the included apps...   
 
