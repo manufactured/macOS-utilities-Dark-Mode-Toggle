@@ -21,8 +21,8 @@ Option 2. A toolbar button version of the icon that works for me on the Finder w
 Option 1.  from Spotlight (an app and icon for that) or  
 
 Option 2.  from the Finder window Toolbar (an app and icon for that).  
-<br/><br/>  
-<br/><br/>  
+<br/><br/><br/><br/>  
+
 ### Install: Unzip Automator apps
 
 The apps already have the icons attached.   
