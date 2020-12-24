@@ -26,7 +26,7 @@ App+Icon: iOS Dark Mode (I recreated in Pixelmator).
 
 You can also make your own App, Service, or Workflow and use one of the icons on your app.    
 
-<br/><br/><br/><br/>
+<br/>
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
