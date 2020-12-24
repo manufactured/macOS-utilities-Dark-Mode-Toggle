@@ -18,14 +18,13 @@
 
 ### How: You can toggle Dark Mode by running the included apps...   
 
-Option 1.  from Spotlight (an app and icon for that) or  
+... from Spotlight and elsewhere: 
 
-Option 2.  from the Finder window Toolbar (an app and icon for that).  
+... by clicking the icon in the Finder window Toolbar.  
+
 <br/><br/><br/><br/>  
 
-### Install: Unzip Automator apps
-
-The apps already have the icons attached.   
+To Install: Unzip Automator apps. The apps already have the icons attached.   
 
 You can also make your own App, Service, or Workflow and use one of the icons.  
 
