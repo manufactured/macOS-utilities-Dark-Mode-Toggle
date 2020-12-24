@@ -25,8 +25,7 @@ The apps already have the icons attached.  Optionally, you can make your own App
 
 ### Use via Spotlight
 
-- Just put the Automator app on your Mac, and activate it with Spotlight.  (I type  `dm` )
-- I happen to use [LaunchBar](https://www.obdev.at/products/launchbar)) but Spotlight, Alfred, Keyboard Maestro, etc. will obviously be fine.  
+Invoke Spotlight, and type  `dm` .  Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I use), or Spotlight, Alfred, Keyboard Maestro, etc.
 
 
 
@@ -34,11 +33,11 @@ The apps already have the icons attached.  Optionally, you can make your own App
 
 <img alt="Dark Mode Toggle for Toolbar Example GIF" src="2-Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
 
-- Put the Automator app somewhere on your Mac. (Make sure you choose the one with the Toolbar icon)
-- Customize your Finder window Toolbar (right click on Toolbar, select "...Customize Toolbar")  
-- Drag the Automator app to your Toolbar. Click done.  
-- Test it by clicking the button. Dark Mode should toggle.  
+1. Select the app named "Dark Mode tb" (it has bevelled button edges).
+2. Customize your Finder window Toolbar (right click on Toolbar, select "...Customize Toolbar")  
+3. Drag the Automator app to your Toolbar. Click done.  
+4. Test it by clicking the button. Dark Mode should toggle.  
 
 ### Icons
 
-All the icons and a couple PNGs are [here](3-All-the-Icons).  
+Some other icons and source PNGs are [here](3-All-the-Icons).  
