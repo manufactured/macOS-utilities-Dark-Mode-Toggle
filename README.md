@@ -1,4 +1,4 @@
-# macOS-utilities-Dark-Mode-Toggle
+# macOS utilities - Dark Mode Toggle
 
 ### macOS 10.14  Mojave gave us "Dark Mode." Nice.  
 
