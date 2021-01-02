@@ -29,19 +29,15 @@ You can also make your own App, Service, or Workflow and use one of the icons on
 
 <br/>
 
-<img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use-Finder+Chrome_Manufactured.gif?raw=true" width="200" align="right">  
 
 ### Option 1. Use via Spotlight
 
 Invoke Spotlight, and type  `dm` .   
 
-Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I use), or Spotlight, Alfred, Keyboard Maestro, etc.  
+Or use other launchers: I use [LaunchBar](https://www.obdev.at/products/launchbar), or you can use [Spotlight](https://support.apple.com/en-gb/HT204014), [Alfred](https://www.alfredapp.com/), [Quicksilver](https://qsapp.com/), [Keyboard Maestro](https://www.keyboardmaestro.com/main/), etc.  
 
-<br/><br/><br/>    
-
-<img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use-Finder+Chrome_Manufactured.gif?raw=true" width="200" align="right">  
-
-### Additional functionality: Set apps to follow System Dark Mode status.  
+Additional functionality: Set apps to follow System Dark Mode status.  
 
 Many Mac apps can change Dark Mode status based on System Dark Mode status.  "[Dark Reader](https://darkreader.org/)" for Google Chrome browser supports this, like so:  
 
