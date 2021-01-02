@@ -27,7 +27,7 @@ App+Icon: iOS Dark Mode (I recreated in Pixelmator).
 
 You can also make your own App, Service, or Workflow and use one of the icons on your app.    
 
-<br/>
+<br/><br/>
 
 <img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use-Finder+Chrome_Manufactured.gif?raw=true" width="200" align="right">  
 
@@ -41,7 +41,7 @@ Or use other launchers: I use [LaunchBar](https://www.obdev.at/products/launchba
 
 Many Mac apps can change Dark Mode status based on System Dark Mode status.  The "[Dark Reader](https://darkreader.org/)" extension for Mac browsers Safari (paid extension) and Google Chrome (free extension) supports Dark Mode for web pages as well.  (This GIF shows Finder and Chrome Dark Mode following System settings.)  
 
-<br/><br/><br/>
+<br/><br/>
 
 ### Option 2. Use via Finder window Toolbar icon
 
