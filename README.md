@@ -39,7 +39,7 @@ Or use other launchers: I use [LaunchBar](https://www.obdev.at/products/launchba
 
 Additional functionality: Set apps to follow System Dark Mode status.  
 
-Many Mac apps can change Dark Mode status based on System Dark Mode status.  "[Dark Reader](https://darkreader.org/)" for Google Chrome browser supports this, like so:  
+Many Mac apps can change Dark Mode status based on System Dark Mode status.  The "[Dark Reader](https://darkreader.org/)" extension for Mac browsers Safari (paid extension) and Google Chrome (free extension) supports Dark Mode for web pages as well.  (This GIF shows Finder and Chrome Dark Mode following System settings.)  
 
 <br/><br/><br/>    
 
