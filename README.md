@@ -2,7 +2,7 @@
 
 
 
-### ⚠️ This repo is now [this repo](https://github.com/manufactured/macOS-utilities-Dark-Mode-Toggle-shortcut).  Sorry for the confusion.  
+# ⚠️ This repo is now [this repo](https://github.com/manufactured/macOS-utilities-Dark-Mode-Toggle-shortcut).  Sorry for the confusion.  
 
 ---
 
