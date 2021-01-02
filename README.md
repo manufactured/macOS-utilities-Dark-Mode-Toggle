@@ -49,10 +49,22 @@ Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I 
 2. Customize your Finder window Toolbar (right click on Toolbar, select "...Customize Toolbar")  
 3. Drag the Automator app to your Toolbar. Click done.  
 
-#### 2b. Test it by clicking the button. Dark Mode should toggle.  
+#### 2b. Test it by clicking the button. Dark Mode should toggle.   
+
+
+
+Note: Many Mac apps can change Dark Mode status based on System Dark Mode status.  "[Dark Reader](https://darkreader.org/)" for Google Chrome browser supports this, like so:  
+
+
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="2-Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
+
+
 
 
 
 ### Icons
 
-Some other icons and source PNGs are [here](3-All-the-Icons).  
+Some other icons and source PNGs are [here](3-All-the-Icons).   
+
+
+
