@@ -1,4 +1,4 @@
-# macOS utilities - Dark Mode Toggle
+# macOS utilities - Dark Mode Toggle shortcut
 
 ### macOS first featured "Dark Mode" in Mojave (10.14).  
 
