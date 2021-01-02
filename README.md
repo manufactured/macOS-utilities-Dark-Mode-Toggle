@@ -1,5 +1,15 @@
 # macOS utilities - Dark Mode Toggle shortcut
 
+
+
+### ⚠️ This repo is now [this repo](https://github.com/manufactured/macOS-utilities-Dark-Mode-Toggle-shortcut).  Sorry for the confusion.  
+
+---
+
+
+
+
+
 ### macOS first featured "Dark Mode" in Mojave (10.14).  
 
 **Problem**: Too many steps to activate. Open System Prefs, get to the General preference pane, then click to select 1 of 3 Appearance settings: Light (Standard) Mode, Dark Mode, or "Auto" (Change based on the time of day).  I also thought Auto lacked the fine control for varied schedules.    
