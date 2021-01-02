@@ -41,7 +41,6 @@ Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I 
 
 Note: Many Mac apps can change Dark Mode status based on System Dark Mode status.  "[Dark Reader](https://darkreader.org/)" for Google Chrome browser supports this, like so:  
 
-
 <img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle//DarkModeTog-Spotlight-Use-Finder+Chrome_Manufactured.gif?raw=true" width="200" align="right">  
 
 <br/><br/><br/>  
@@ -49,6 +48,8 @@ Note: Many Mac apps can change Dark Mode status based on System Dark Mode status
 ### Option 2. Use via Finder window Toolbar icon
 
 <img alt="Dark Mode Toggle for Toolbar Example GIF" src="2-Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">
+
+<br/><br/><br/>  
 
 #### 2a. Install the unzipped app "Dark Mode tb" into your Finder window Toolbar. 
 
