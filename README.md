@@ -29,7 +29,7 @@ You can also make your own App, Service, or Workflow and use one of the icons on
 
 <br/><br/>
 
-<img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use-Finder+Chrome_Manufactured.gif?raw=true" width="200" align="right">  
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use-Finder+Chrome-by_Manufactured.gif?raw=true" width="200" align="right">  
 
 ### Option 1. Use via Spotlight
 
@@ -45,7 +45,7 @@ Many Mac apps can change Dark Mode status based on System Dark Mode status.  The
 
 ### Option 2. Use via Finder window Toolbar icon
 
-<img alt="Dark Mode Toggle for Toolbar Example GIF" src="2-Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use.gif?raw=true" width="200" align="right">  
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="2-Dark-Mode-Toggle-for-Toolbar/DarkModeTog-Toolbar-Use-by_Manufactured.gif?raw=true" width="200" align="right">  
 
 #### 2a. Install the unzipped app "Dark Mode tb" into your Finder window Toolbar. 
 
