@@ -39,7 +39,6 @@ Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I 
 
 <br/><br/><br/>    
 
-<br/>
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
