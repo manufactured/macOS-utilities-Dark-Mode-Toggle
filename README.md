@@ -10,7 +10,7 @@
 App+Icon: iOS Dark Mode (I recreated in Pixelmator).  
 <img alt="Dark Mode Toggle icon image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_main_RECREATED_transparentOUT.png" width="60" align="left">  
 <br/><br/>
-<br/>Acon: iOS: Dark Mode for Finder window Toolbar (in default "button" style)    
+<br/>Icon: iOS: Dark Mode for Finder window Toolbar (in default "button" style)    
 <img alt="Dark Mode Toggle icon button image" src="3-All-the-Icons/2-variations-and-PNG-of-icons-I-use/iOS_DM_icon_Toolbar_buttonOUT.png?" width="59" align="left">  
 <br/><br/>
 
