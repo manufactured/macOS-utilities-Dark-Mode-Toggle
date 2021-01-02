@@ -11,7 +11,7 @@ App+Icon: iOS Dark Mode (I recreated in Pixelmator).
 <img alt="Dark Mode Toggle icon image" src="iOS_DM_icon_main_RECREATED_transparentOUT.png" width="60" align="left">  
 <br/><br/>
 <br/>Icon: iOS: Dark Mode for Finder window Toolbar (in default "button" style)    
-<img alt="iOS_DM_icon_Toolbar_buttonOUT.png?" width="59" align="left">  
+<img alt="Dark Mode Toggle icon button image" src="iOS_DM_icon_Toolbar_buttonOUT.png?" width="59" align="left">  
 <br/><br/>
 
 ### How: You can toggle Dark Mode by running the included apps...   
@@ -29,7 +29,7 @@ You can also make your own App, Service, or Workflow and use one of the icons on
 
 <br/><br/>
 
-<img alt="DarkModeTog-Spotlight-Use-Finder+Chrome-by_Manufactured.gif?raw=true" width="200" align="right">  
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="DarkModeTog-Spotlight-Use-Finder+Chrome-by_Manufactured.gif?raw=true" width="200" align="right">  
 
 ### Option 1. Use via Spotlight
 
