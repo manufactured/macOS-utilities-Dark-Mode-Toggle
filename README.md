@@ -1,14 +1,12 @@
-# macOS utilities - Dark Mode Toggle shortcut
+### *macOS utilities - Dark Mode Toggle shortcut*
 
 
 
 # ⚠️ This repo is now [this repo](https://github.com/manufactured/macOS-utilities-Dark-Mode-Toggle-shortcut).  Sorry for the confusion.  
 
----
 
 
-
-
+<br/><br/><br/>
 
 ### macOS first featured "Dark Mode" in Mojave (10.14).  
 
