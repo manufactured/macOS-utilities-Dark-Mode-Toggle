@@ -42,11 +42,11 @@ Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I 
 
 <img alt="Dark Mode Toggle Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use.gif?raw=true" width="200" align="right">
 
-### Option 1. Use via Spotlight
+### Additional functionality: Set apps to follow System Dark Mode status.  
 
-Invoke Spotlight, and type  `dm` .   
+Many Mac apps can change Dark Mode status based on System Dark Mode status.  "[Dark Reader](https://darkreader.org/)" for Google Chrome browser supports this, like so:  
 
-Or use other launchers: [LaunchBar](https://www.obdev.at/products/launchbar) (I use), or Spotlight, Alfred, Keyboard Maestro, etc.  
+<img alt="Dark Mode Toggle for Toolbar Example GIF" src="1-Dark-Mode-Toggle/DarkModeTog-Spotlight-Use-Finder+Chrome_Manufactured.gif?raw=true" width="200" align="right">  
 
 <br/><br/><br/>    
 
