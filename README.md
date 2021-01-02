@@ -37,7 +37,7 @@ Invoke Spotlight, and type  `dm` .
 
 Or use other launchers: I use [LaunchBar](https://www.obdev.at/products/launchbar), or you can use [Spotlight](https://support.apple.com/en-gb/HT204014), [Alfred](https://www.alfredapp.com/), [Quicksilver](https://qsapp.com/), [Keyboard Maestro](https://www.keyboardmaestro.com/main/), etc.  
 
-Additional functionality: Set apps to follow System Dark Mode status.  
+*Additional functionality:* Set apps to follow System Dark Mode status.  
 
 Many Mac apps can change Dark Mode status based on System Dark Mode status.  The "[Dark Reader](https://darkreader.org/)" extension for Mac browsers Safari (paid extension) and Google Chrome (free extension) supports Dark Mode for web pages as well.  (This GIF shows Finder and Chrome Dark Mode following System settings.)  
 
