@@ -55,10 +55,9 @@ Many Mac apps can change Dark Mode status based on System Dark Mode status.  The
 
 #### 2b. Test it by clicking the button. Dark Mode should toggle.   
 
+---
+
 
 ### Icons
 
 Some other icons and source PNGs are [here](3-All-the-Icons).   
-
-
-
